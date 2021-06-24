@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\bin\Debug\netcoreapp3.1\bodymass.exe
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\bin\Debug\netcoreapp3.1\bodymass.deps.json
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\bin\Debug\netcoreapp3.1\bodymass.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\bin\Debug\netcoreapp3.1\bodymass.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\bin\Debug\netcoreapp3.1\bodymass.dll
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\bin\Debug\netcoreapp3.1\bodymass.pdb
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\obj\Debug\netcoreapp3.1\bodymass.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\obj\Debug\netcoreapp3.1\bodymass.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\obj\Debug\netcoreapp3.1\bodymass.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\obj\Debug\netcoreapp3.1\bodymass.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\obj\Debug\netcoreapp3.1\bodymass.dll
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\obj\Debug\netcoreapp3.1\bodymass.pdb
+C:\Users\aiman.shariff\source\repos\bodymass\bodymass\obj\Debug\netcoreapp3.1\bodymass.genruntimeconfig.cache
